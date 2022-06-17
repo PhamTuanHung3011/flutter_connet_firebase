@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "385621882162",
+    "project_id": "reconnecting-firebase",
+    "storage_bucket": "reconnecting-firebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:385621882162:android:bc845d0f02e1309126d32b",
+        "android_client_info": {
+          "package_name": "com.example.rebuild_connect_firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "385621882162-hk6a37ifmgdbtfhl8hktn2db266hhaoj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBB4L0-oaDDbIiyxDK07IS3P6aIZjEs5cI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "385621882162-hk6a37ifmgdbtfhl8hktn2db266hhaoj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
